@@ -10,7 +10,7 @@ Clone this project
 
 ```bash
   git clone https://github.com/keero1/webrtc_flutter.git
-  cd webrtc_flutter.git
+  cd webrtc_flutter
 ```
 
 To run the Flutter App
